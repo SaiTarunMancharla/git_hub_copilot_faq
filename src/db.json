@@ -1,0 +1,204 @@
+{
+  "faqs": [
+    {
+      "question": "What is GitHub Copilot?",
+      "answer": "GitHub Copilot is an AI pair programmer that helps you write code faster and with less work."
+    },
+    {
+      "question": "How does GitHub Copilot work?",
+      "answer": "GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor."
+    },
+    {
+      "question": "Is GitHub Copilot free?",
+      "answer": "GitHub Copilot offers a free trial, after which it requires a subscription."
+    },
+    {
+      "question": "Which languages does GitHub Copilot support?",
+      "answer": "GitHub Copilot supports a wide range of languages including Python, JavaScript, TypeScript, Ruby, and more."
+    },
+    {
+      "question": "Can GitHub Copilot write entire functions?",
+      "answer": "Yes, GitHub Copilot can suggest entire functions based on the context of your code."
+    },
+    {
+      "question": "Does GitHub Copilot work with VS Code?",
+      "answer": "Yes, GitHub Copilot works with Visual Studio Code."
+    },
+    {
+      "question": "How do I install GitHub Copilot?",
+      "answer": "You can install GitHub Copilot from the Visual Studio Code marketplace."
+    },
+    {
+      "question": "Can GitHub Copilot help with debugging?",
+      "answer": "GitHub Copilot can suggest code that may help with debugging, but it is not a debugging tool."
+    },
+    {
+      "question": "Is GitHub Copilot available for enterprise use?",
+      "answer": "Yes, GitHub Copilot is available for enterprise use with GitHub Copilot for Business."
+    },
+    {
+      "question": "Does GitHub Copilot store my code?",
+      "answer": "GitHub Copilot does not store your code, but it may collect telemetry data to improve the service."
+    },
+    {
+      "question": "Can I use GitHub Copilot with private repositories?",
+      "answer": "Yes, GitHub Copilot can be used with private repositories."
+    },
+    {
+      "question": "Does GitHub Copilot support pair programming?",
+      "answer": "GitHub Copilot is designed to assist individual developers, but it can be used in pair programming scenarios."
+    },
+    {
+      "question": "Can GitHub Copilot generate comments?",
+      "answer": "Yes, GitHub Copilot can suggest comments based on the context of your code."
+    },
+    {
+      "question": "How accurate are GitHub Copilot's suggestions?",
+      "answer": "The accuracy of GitHub Copilot's suggestions can vary, but it is designed to improve over time with usage."
+    },
+    {
+      "question": "Can I customize GitHub Copilot's suggestions?",
+      "answer": "Currently, GitHub Copilot does not support customization of suggestions."
+    },
+    {
+      "question": "Does GitHub Copilot support multi-line suggestions?",
+      "answer": "Yes, GitHub Copilot can suggest multiple lines of code at once."
+    },
+    {
+      "question": "Can GitHub Copilot help with code refactoring?",
+      "answer": "GitHub Copilot can suggest code that may help with refactoring, but it is not a dedicated refactoring tool."
+    },
+    {
+      "question": "Is GitHub Copilot secure?",
+      "answer": "GitHub Copilot is designed with security in mind, but it is important to review and test all code suggestions."
+    },
+    {
+      "question": "Can GitHub Copilot be used offline?",
+      "answer": "No, GitHub Copilot requires an internet connection to function."
+    },
+    {
+      "question": "Does GitHub Copilot support code completion?",
+      "answer": "Yes, GitHub Copilot provides code completion suggestions."
+    },
+    {
+      "question": "Can GitHub Copilot help with documentation?",
+      "answer": "GitHub Copilot can suggest comments and documentation based on the context of your code."
+    },
+    {
+      "question": "Does GitHub Copilot support multiple programming languages?",
+      "answer": "Yes, GitHub Copilot supports multiple programming languages."
+    },
+    {
+      "question": "Can I disable GitHub Copilot?",
+      "answer": "Yes, you can disable GitHub Copilot from the settings in Visual Studio Code."
+    },
+    {
+      "question": "Does GitHub Copilot support version control?",
+      "answer": "GitHub Copilot works alongside version control systems like Git, but it is not a version control tool."
+    },
+    {
+      "question": "Can GitHub Copilot help with testing?",
+      "answer": "GitHub Copilot can suggest test code, but it is not a dedicated testing tool."
+    },
+    {
+      "question": "Is GitHub Copilot available for other editors?",
+      "answer": "Currently, GitHub Copilot is primarily available for Visual Studio Code."
+    },
+    {
+      "question": "Can GitHub Copilot suggest code snippets?",
+      "answer": "Yes, GitHub Copilot can suggest code snippets based on the context of your code."
+    },
+    {
+      "question": "Does GitHub Copilot support code formatting?",
+      "answer": "GitHub Copilot can suggest formatted code, but it is not a dedicated code formatting tool."
+    },
+    {
+      "question": "Can GitHub Copilot help with learning new programming languages?",
+      "answer": "GitHub Copilot can assist with learning new programming languages by providing code suggestions and examples."
+    },
+    {
+      "question": "Does GitHub Copilot support mobile development?",
+      "answer": "Yes, GitHub Copilot can assist with mobile development by providing code suggestions for mobile frameworks."
+    },
+    {
+      "question": "Can GitHub Copilot help with web development?",
+      "answer": "Yes, GitHub Copilot can assist with web development by providing code suggestions for web frameworks."
+    },
+    {
+      "question": "Does GitHub Copilot support backend development?",
+      "answer": "Yes, GitHub Copilot can assist with backend development by providing code suggestions for backend frameworks."
+    },
+    {
+      "question": "Can GitHub Copilot help with database queries?",
+      "answer": "Yes, GitHub Copilot can suggest database queries based on the context of your code."
+    },
+    {
+      "question": "Does GitHub Copilot support cloud development?",
+      "answer": "Yes, GitHub Copilot can assist with cloud development by providing code suggestions for cloud services."
+    },
+    {
+      "question": "Can GitHub Copilot help with DevOps tasks?",
+      "answer": "GitHub Copilot can suggest code for DevOps tasks, but it is not a dedicated DevOps tool."
+    },
+    {
+      "question": "Does GitHub Copilot support machine learning?",
+      "answer": "Yes, GitHub Copilot can assist with machine learning by providing code suggestions for machine learning frameworks."
+    },
+    {
+      "question": "Can GitHub Copilot help with data analysis?",
+      "answer": "Yes, GitHub Copilot can suggest code for data analysis tasks."
+    },
+    {
+      "question": "Does GitHub Copilot support game development?",
+      "answer": "Yes, GitHub Copilot can assist with game development by providing code suggestions for game development frameworks."
+    },
+    {
+      "question": "Can GitHub Copilot help with API development?",
+      "answer": "Yes, GitHub Copilot can suggest code for API development tasks."
+    },
+    {
+      "question": "Does GitHub Copilot support IoT development?",
+      "answer": "Yes, GitHub Copilot can assist with IoT development by providing code suggestions for IoT frameworks."
+    },
+    {
+      "question": "Can GitHub Copilot help with cybersecurity tasks?",
+      "answer": "GitHub Copilot can suggest code for cybersecurity tasks, but it is not a dedicated cybersecurity tool."
+    },
+    {
+      "question": "Does GitHub Copilot support blockchain development?",
+      "answer": "Yes, GitHub Copilot can assist with blockchain development by providing code suggestions for blockchain frameworks."
+    },
+    {
+      "question": "Can GitHub Copilot help with AR/VR development?",
+      "answer": "Yes, GitHub Copilot can suggest code for AR/VR development tasks."
+    },
+    {
+      "question": "Does GitHub Copilot support robotics development?",
+      "answer": "Yes, GitHub Copilot can assist with robotics development by providing code suggestions for robotics frameworks."
+    },
+    {
+      "question": "Can GitHub Copilot help with scientific computing?",
+      "answer": "Yes, GitHub Copilot can suggest code for scientific computing tasks."
+    },
+    {
+      "question": "Does GitHub Copilot support financial technology development?",
+      "answer": "Yes, GitHub Copilot can assist with financial technology development by providing code suggestions for fintech frameworks."
+    },
+    {
+      "question": "Can GitHub Copilot help with healthcare technology development?",
+      "answer": "Yes, GitHub Copilot can suggest code for healthcare technology development tasks."
+    },
+    {
+      "question": "Does GitHub Copilot support educational technology development?",
+      "answer": "Yes, GitHub Copilot can assist with educational technology development by providing code suggestions for edtech frameworks."
+    },
+    {
+      "question": "Can GitHub Copilot help with legal technology development?",
+      "answer": "Yes, GitHub Copilot can suggest code for legal technology development tasks."
+    },
+    {
+      "question": "Does GitHub Copilot support environmental technology development?",
+      "answer": "Yes, GitHub Copilot can assist with environmental technology development by providing code suggestions for envirotech frameworks."
+    }
+  ]
+}
